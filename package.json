@@ -1,0 +1,8 @@
+{
+  "name": "beichtstuhl-media-streamer",
+  "version": "0.0.1",
+  "description": "Beichtstuhl Media Streamer tool",
+  "main": "index.js",
+  "author": "Hack Institute",
+  "license": "MIT"
+}
