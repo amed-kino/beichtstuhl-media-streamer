@@ -2,3 +2,21 @@
 # yarn lockfile v1
 
 
+child_process@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/child_process/-/child_process-1.0.2.tgz#b1f7e7fc73d25e7fd1d455adc94e143830182b5a"
+
+keypress@^0.2.1, keypress@~0.2.1:
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/keypress/-/keypress-0.2.1.tgz#1e80454250018dbad4c3fe94497d6e67b6269c77"
+
+term-canvas@0.0.5:
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/term-canvas/-/term-canvas-0.0.5.tgz#597afac2fa6369a6f17860bce9c5f66d6ea0ca96"
+
+term-list@^0.2.1:
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/term-list/-/term-list-0.2.1.tgz#ab168486769f40e46bdba8f22df2829ceaf3d9e3"
+  dependencies:
+    keypress "~0.2.1"
+    term-canvas "0.0.5"
